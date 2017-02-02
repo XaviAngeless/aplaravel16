@@ -81,6 +81,11 @@
                 <div class="title m-b-md">
                     XAVI ANGELES
                 </div>
+                
+                <article style="background-color: #BB87c43b;">
+                    <div>Desarrollo</div>
+                
+                </article>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
